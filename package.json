@@ -1,7 +1,7 @@
 {
   "name": "sunwin-ultimate-predictor",
   "version": "6.0.0",
-  "description": "Sunwin Ultimate Predictor với 500+ thuật toán AI (Markov, Frequency, Cycle, Trend, Streak, Bayes, Fibonacci, RSI, Bollinger, MACD, KNN, Pattern, Dice Analysis, Super Ensemble...)",
+  "description": "lc79 Ultimate Predictor với 500+ thuật toán AI (Markov, Frequency, Cycle, Trend, Streak, Bayes, Fibonacci, RSI, Bollinger, MACD, KNN, Pattern, Dice Analysis, Super Ensemble...)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -15,7 +15,7 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "keywords": ["sunwin", "tai xiu", "predictor", "ai", "markov", "machine learning"],
-  "author": "Ha Quoc - Ultimate AI",
+  "keywords": ["lc79", "md5", "predictor", "ai", "markov", "machine learning"],
+  "author": "s2king - Ultimate AI",
   "license": "MIT"
 }
